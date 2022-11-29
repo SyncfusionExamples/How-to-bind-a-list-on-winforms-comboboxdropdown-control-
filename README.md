@@ -2,7 +2,7 @@
 This sample demonstrates how to bind a List to the comboboxdropdown control. 
 
 ## Data Binding in ComboBox
-The data source can be bound by using the [DataSource](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.ListView.SfComboBox.html#Syncfusion_WinForms_ListView_SfComboBox_DataSource) property. The following properties controls the data binding:
+The data source can be bound by using the [DataSource](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.ListView.SfComboBox.html#Syncfusion_WinForms_ListView_SfComboBox_DataSource) property. Data Binding is controlled by the following properties:
 
 * `DisplayMember`: To display the underlying datasource for [Windows Forms ComboBox](https://www.syncfusion.com/winforms-ui-controls/combobox).
 * `ValueMember`: To use as the actual value for the items. 
