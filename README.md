@@ -8,7 +8,7 @@ The data source can be bound by using the [DataSource](https://help.syncfusion.c
 * `ValueMember`: To use as the actual value for the items. 
 
 # C#
-        private void DropDownListView_DrawItem(object sender, Syncfusion.WinForms.ListView.Events.DrawItemEventArgs e)
+     private void DropDownListView_DrawItem(object sender, Syncfusion.WinForms.ListView.Events.DrawItemEventArgs e)
         {
             bool isEnableDraw = (this.sfComboBox1.ComboBoxMode == ComboBoxMode.MultiSelection && this.sfComboBox1.AllowSelectAll && this.sfComboBox1.DropDownListView.ShowCheckBoxes && e.ItemIndex == 0) ? false : (e.ItemData as Student).IsDraWSeparator;
             if (isEnableDraw)
