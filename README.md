@@ -37,5 +37,5 @@ private List<string> GetData()
 For more details please refer the KB article: [How to bind a list on winforms ComboBoxDropDown](https://www.syncfusion.com/kb/11662/how-to-bind-a-list-in-winforms-combodropdown-control)
 
 ## Output
-![List binding in WinForms ComboDropDown](ComboBoxDropDown/ComboBoxDropDownSample/Image/Binding%20items%20to%20ComboBox.png)
+![List binding in WinForms ComboDropDown](ComboBoxDropDown/ComboBoxDropDownSample/Image/list_binding_in_combodropdown.png)
 
